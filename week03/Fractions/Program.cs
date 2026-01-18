@@ -1,6 +1,8 @@
 using System;
 
-class Program
+
+public class Fraction
+
 {
     static void Main(string[] args)
     {
